@@ -1,0 +1,88 @@
+{
+    "jornadas": [
+        {
+            "id":1,
+            "lunes": "8:15-13:30&15:00-18:30",
+            "martes": "8:15-13:30&15:00-18:30",
+            "miercoles": "8:15-13:30&15:00-18:30",
+            "jueves": "8:15-13:30&15:00-18:30",
+            "viernes": "8:00-14:30",
+            "sabado": "8:15-13:30&15:00-18:30",
+            "domingo": "8:15-13:30&15:00-18:30",
+            "descripcion": "jornada completa",
+            "especial": 0
+        },
+        {
+            "id":2,
+            "lunes": "8:15-13:30",
+            "martes": "8:15-13:30",
+            "miercoles": "8:15-13:30",
+            "jueves": "8:15-13:30",
+            "viernes": "8:15-13:30",
+            "sabado": "8:15-13:30",
+            "domingo": "8:15-13:30",
+            "descripcion": "jornada mañana",
+            "especial": 0
+        },
+        {
+            "id":3,
+            "lunes": "15:30-18:30",
+            "martes": "15:30-18:30",
+            "miercoles": "15:30-18:30",
+            "jueves": "15:30-18:30",
+            "viernes": "15:30-18:30",
+            "sabado": "15:30-18:30",
+            "domingo": "15:30-18:30",
+            "descripcion": "jornada de tarde",
+            "especial": 0
+        },
+        {
+            "id":4,
+            "lunes": "9:30-12:30&16:00-18:00",
+            "martes": "9:30-12:30&16:00-18:00",
+            "miercoles": "9:30-12:30&16:00-18:00",
+            "jueves": "9:30-12:30&16:00-18:00",
+            "viernes": "9:30-14:30",
+            "sabado": "9:30-12:30&16:00-18:00",
+            "domingo": "9:30-12:30&16:00-18:00",
+            "descripcion": "JORNADA PARCIAL ",
+            "especial": 0
+        },
+        {
+            "id":5,
+            "lunes": "8:15-12:30&15:00-18:30",
+            "martes": "8:15-12:30&15:00-18:30",
+            "miercoles": "8:15-12:30&15:00-18:30",
+            "jueves": "8:15-12:30&15:00-18:30",
+            "viernes": "8:00-14:30",
+            "sabado": "8:15-12:30&15:00-18:30",
+            "domingo": "8:15-12:30&15:00-18:30",
+            "descripcion": "MEDICO JUAN ",
+            "especial": 1
+        },
+        {
+            "id":6,
+            "lunes": "8:15-12:30&15:00-18:30",
+            "martes": "9:15-13:30&15:00-18:30",
+            "miercoles": "9:15-13:30&15:00-18:30",
+            "jueves": "9:15-13:30&15:00-18:30",
+            "viernes": "9:15-13:30",
+            "sabado": "8:15-12:30&15:00-18:30",
+            "domingo": "8:15-12:30&15:00-18:30",
+            "descripcion": "MEDICO MAQUI",
+            "especial": 1
+        },
+        {
+            "id":7,
+            "lunes": "ERTE COVID19",
+            "martes": "ERTE COVID19",
+            "miercoles": "ERTE COVID19",
+            "jueves": "ERTE COVID19",
+            "viernes": "ERTE COVID19",
+            "sabado": "ERTE COVID19",
+            "domingo": "ERTE COVID19",
+            "descripcion": "ERTE COVID19",
+            "especial": 0
+        }
+    ]
+}

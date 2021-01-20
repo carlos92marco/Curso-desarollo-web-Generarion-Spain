@@ -1,0 +1,79 @@
+{
+    "_embedded": {
+        "employees": [
+            {
+                
+                "nombre": "PATRICIA",
+                "apellidos": "FERNANDEZ",
+                "dni": "434543t",
+                "identificador": "E00401000ED6C7CD",
+                "fecha_alta": "2014-03-01",
+                "fecha_baja": null,
+                "jornada": 1
+            },
+            {
+                "nombre": "ALEJANDRO",
+                "apellidos": "ALCANTARA",
+                "dni": "45645k",
+                "identificador": "e0020449a91b44f61",
+                "fecha_alta": "2018-03-12",
+                "fecha_baja": "2019-03-15",
+                "jornada":2
+            },
+            {
+                "nombre": "DAVID",
+                "apellidos": "SAEZ CALVO",
+                "dni": "576576f",
+                "identificador": "88C63EE3",
+                "fecha_alta": "2016-09-01",
+                "fecha_baja": null,
+                "jornada":3
+            },
+            {
+                "nombre": "FRANCISCO",
+                "apellidos": "MAYORAL SOLARES",
+                "dni": "5435g",
+                "identificador": "01000000081da14d",
+                "fecha_alta": "1995-04-25",
+                "fecha_baja": null,
+                "jornada":4
+            },
+            {
+                "nombre": "AGUSTIN",
+                "apellidos": "CALVO ATIENZA",
+                "dni": "90'9'g",
+                "identificador": "4250afe2",
+                "fecha_alta": "2000-06-16",
+                "fecha_baja": null,
+                "jornada":5
+            },
+            {
+                "nombre": "JOSE ANTONIO ",
+                "apellidos": "DIAZ",
+                "dni": "34232g",
+                "identificador": "3e2db2f2",
+                "fecha_alta": "1999-04-21",
+                "fecha_baja": null,
+                "jornada":6
+            },
+            {
+                "nombre": "JUAN",
+                "apellidos": "GOMEZ HELMO",
+                "dni": "675l",
+                "identificador": "425161b2",
+                "fecha_alta": "1989-11-01",
+                "fecha_baja": null,
+                "jornada":7
+            },
+            {
+                "nombre": "DANIEL",
+                "apellidos": "MOZDROGAN DUMITRU",
+                "dni": "456456i",
+                "identificador": "e0020449a91b44f6",
+                "fecha_alta": "2019-04-15",
+                "fecha_baja": null,
+                "jornada":1
+            }
+        ]
+    }
+}

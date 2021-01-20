@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Añaadir jornada</title>
+    <script src="script.js" async></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body onload="cargarEmpleados()">
+    <div class="container">
+        <div class="jumbotron p-5">
+            <h1>Registro nuevo empleado</h1>
+            <label for="nombre">Nombre</label><input id="inputNombre" type="text"><br>
+            <label for="apellidos">Apellidos</label><input id="inputApellidos" type="text"><br>
+            <label for="dni">DNI</label><input id="inputDni" type="text"><br>
+            <label for="identificador">Identificador</label><input id="inputIdentificador" type="text"><br>
+            <label for="fechaAlta">Fecha de alta</label><input id="inputFechaAlta" type="date"><br>
+            <label for="jornada">Jornada</label><input id="inputJornada" type="number"><br>
+            <button id="botonAdd">Añadir empleado</button>
+        </div>
+        <div>
+            <table class="table table-hover" id="myTable">
+                <thead class="table-dark">
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>DNI</th>
+                    <th>Identificador</th>
+                    <th>Fecha alta</th>
+                    <th>Fecha baja</th>
+                    <th>Jornada</th>
+                    <th>Borrar</th>
+                </thead>
+                <tbody id="tbody">
+                    
+                </tbody>
+            </table>
+        
+        </div>
+    </div>
+    
+    
+</body>
+</html>
